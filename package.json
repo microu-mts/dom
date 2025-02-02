@@ -1,6 +1,6 @@
 {
   "name": "@microu-mts/dom",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "[@microu-mts] dom utilities",
   "type": "module",
   "main": "dist/cjs/index.js",
@@ -23,6 +23,10 @@
     "README.md",
     "LICENSE"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microu-mts/dom"
+  },
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
     "expect": "^29.7.0",
